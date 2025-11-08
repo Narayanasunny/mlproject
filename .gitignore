@@ -1,1 +1,27 @@
+# Python cache / compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment / secret files
+.env
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Large files (model or dataset)
+*.pkl
+*.h5
+datasets/
+models/
 
